@@ -74,7 +74,7 @@ data:extend{
           icon_size = 64
         },
         {
-          icon = "__space-age__/graphics/icons/fluid/molten-iron.png",
+          icon = "__space-age__/graphics/icons/fluid/molten-copper.png",
           icon_size = 64,
           scale = 0.5,
           shift = {14, 14}
