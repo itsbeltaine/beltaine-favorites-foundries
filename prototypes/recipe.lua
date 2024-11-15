@@ -5,7 +5,7 @@ data:extend{
       name = "smelt-down-iron-plates",
       order = "z[itsBeltaine]-a[molten-iron]-a[iron-plate]",
       enabled = false,
-      allow_productivity = true,
+      allow_productivity = false,
       category = "metallurgy",
       energy_required = 16,
       icons = {
@@ -35,7 +35,7 @@ data:extend{
       name = "smelt-down-steel-plates",
       order = "z[itsBeltaine]-a[molten-iron]-b[steel-plate]",
       enabled = false,
-      allow_productivity = true,
+      allow_productivity = false,
       category = "metallurgy",
       energy_required = 16,
       icons = {
@@ -65,7 +65,7 @@ data:extend{
       name = "smelt-down-copper-plates",
       order = "z[itsBeltaine]-b[molten-copper]-a[copper-plate]",
       enabled = false,
-      allow_productivity = true,
+      allow_productivity = false,
       category = "metallurgy",
       energy_required = 16,
       icons = {
