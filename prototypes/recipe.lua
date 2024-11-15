@@ -27,7 +27,7 @@ data:extend{
             type = "item"
           },
       },
-      results = {{type = "fluid", name = "molten-iron", amount = 375}},
+      results = {{type = "fluid", name = "molten-iron", amount = 150}},
     },
 	{
       type = "recipe",
@@ -57,7 +57,7 @@ data:extend{
             type = "item"
           },
       },
-      results = {{type = "fluid", name = "molten-iron", amount = 375}},
+      results = {{type = "fluid", name = "molten-iron", amount = 150}},
     },
 	{
       type = "recipe",
@@ -87,6 +87,6 @@ data:extend{
             type = "item"
           },
       },
-      results = {{type = "fluid", name = "molten-copper", amount = 375}},
+      results = {{type = "fluid", name = "molten-copper", amount = 150}},
     }
 }
